@@ -38,10 +38,5 @@
                 end
             end   
         end             
-    end
-    def tax_bracket
-     #returns an Array of all the employees whose salaries are within $1000 (± 1000) 
-     #of the employee who invoked the method
-    
-    end    
+    end   
 end
